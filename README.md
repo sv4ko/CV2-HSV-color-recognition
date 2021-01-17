@@ -1,1 +1,0 @@
-# CV2-HSV-color-recognition
